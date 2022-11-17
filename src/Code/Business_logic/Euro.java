@@ -1,4 +1,4 @@
-package Code;
+package Code.Business_logic;
 
 public class Euro {
     private long valore;
