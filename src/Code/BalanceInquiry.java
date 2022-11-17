@@ -1,3 +1,4 @@
+package Code;
 // BalanceInquiry.java
 // Represents a balance inquiry ATM transaction
 

@@ -1,3 +1,4 @@
+package Code;
 // CashDispenser.java
 // Represents the cash dispenser of the ATM
 
